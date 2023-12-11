@@ -1,2 +1,8 @@
-# deep_learning
-Deep Learning Studies
+# Deep Learning Studies
+## Resources
+- [Practical Deep Learning for Coders 2022](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU). [Materiais](https://course.fast.ai/)
+- [Curso de Deep learning | Aprenda a construir redes neurais com Pytorch](https://www.youtube.com/playlist?list=PL5TJqBvpXQv6cd1kade4kjwr8_QQj8j3k)
+- [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI). [Materiais](https://github.com/aamini/introtodeeplearning)
+- [Deep Learning Explained by AssemblyAI](https://www.youtube.com/playlist?list=PLcWfeUsAys2nPgh-gYRlexc6xvscdvHqX)
+- [DeepMind x UCL | Deep Learning Lecture Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
+- [NYU Deep Learning SP20](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
