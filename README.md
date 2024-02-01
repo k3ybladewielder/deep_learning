@@ -8,7 +8,7 @@ Este repositório possui anotações, notas e insights **pessoais** sobre estudo
 - **MIT 6.S191: Introduction to Deep Learning**. Notebook 📚, [Curso](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)💻, [Materiais](https://github.com/aamini/introtodeeplearning) 📜
 - **Deep Learning Explained by AssemblyAI**. Notebook 📚, [Curso](https://www.youtube.com/playlist?list=PLcWfeUsAys2nPgh-gYRlexc6xvscdvHqX) 💻
 - **DeepMind x UCL | Deep Learning Lecture Series 2020**. Notebook 📚, [Curso](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF) 💻
-- **NYU Deep Learning SP20** Notebook 📚, [Curso](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq) 💻
+- **NYU Deep Learning SP20**. Notebook 📚, [Curso](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq) 💻
 
 ## Repos 📜
 - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#courses)
